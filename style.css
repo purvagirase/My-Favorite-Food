@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    border-top: 5px;
+    border-right: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    background-color: blueviolet;
+}
+#header{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+#names{
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+#pizza{
+    width: 100px;
+    height: 100px;
+    padding: 50;
+    border-width: 4px;
+    border-color: black;
+}
+#pasta{
+    width: 100px;
+    height: 100px;
+    padding: 50;
+    border-width: 4px;
+    border-color: black;
+}
+img:hover{
+    transform: scale(0.9) !important;
+}
+img:hover{
+    transform: scale(0.9) !important;
+}
